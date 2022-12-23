@@ -5,7 +5,7 @@ SCRIPT_V = '1.0.3'
 import argparse
 
 parser = argparse.ArgumentParser(description=f'nexfil - Find social media profiles on the web | v{SCRIPT_V}')
-parser.add_argument('-u', help='Specify username', type=str)
+parser.add_argument('-u', help='axubxs', type=str)
 parser.add_argument('-f', help='Specify a file containing username list', type=str)
 parser.add_argument('-l', help='Specify multiple comma separated usernames', type=str)
 parser.add_argument('-t', help='Specify timeout [Default : 5]', type=int)
